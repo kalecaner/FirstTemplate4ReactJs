@@ -26,6 +26,7 @@ function Contact() {
           placeholder="Name"
           required=""
           name="Name"
+
         />
       </p>
       <p>
@@ -34,7 +35,7 @@ function Contact() {
           type="number"
           placeholder="How many people"
           required=""
-          name="People"
+          name="People "
         />
       </p>
       <p>
